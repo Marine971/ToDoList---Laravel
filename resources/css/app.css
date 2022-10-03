@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Language: css */
+
+button[name="confirm"]:active {
+    background: red;
+  }
+
+body{
+
+    background-color: brown;
+}
